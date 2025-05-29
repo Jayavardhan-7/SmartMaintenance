@@ -1,4 +1,4 @@
-# Predictive_Maintenance_With_MLops
+# SmartMaintenance_With_MLops
 
 ## Workflows
 
